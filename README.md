@@ -24,14 +24,18 @@ This repository documents my journey of learning Python from beginner to advance
 - [ ] File Handling
 - [ ] Object-Oriented Programming
 
-## Progress
 
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 1 | Variables & Data Types | ✅ |
-| Day 2 | Conditions | ⬜ |
-| Day 3 | Loops | ⬜ |
+## 📈 Progress
 
+| Day | Topics | Status |
+|-----|--------|--------|
+| Day 1 | Python Setup, Variables, Data Types & Input/Output | ✅ |
+| Day 2 | Conditions (if, elif, else) & Loops (for, while) | ✅ |
+| Day 3 | Functions, Scope & Lambda Functions | ✅ |
+| Day 4 | Lists, Tuples, Sets & Dictionaries | ✅ |
+| Day 5 | File Handling & Exception Handling | ✅ |
+| Day 6 | Object-Oriented Programming (Classes, Inheritance & Polymorphism) | ⬜ |
+| Day 7 | Revision & Library Management System Project | ⬜ |
 ## Author
 
 Omer Hussien
